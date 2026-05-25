@@ -1,0 +1,13 @@
+# system
+.cache/
+.idea/
+__pycache__/
+*.pyc
+
+# LLM models (QUAN TRỌNG)
+model/
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
