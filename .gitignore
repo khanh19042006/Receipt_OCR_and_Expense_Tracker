@@ -3,6 +3,7 @@
 .idea/
 __pycache__/
 *.pyc
+.venv
 
 # LLM models (QUAN TRỌNG)
 model/
@@ -11,3 +12,7 @@ model/
 *.safetensors
 *.pt
 *.pth
+
+nextjs/
+dowload_model.py
+main.py
