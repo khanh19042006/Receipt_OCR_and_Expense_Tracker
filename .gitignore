@@ -16,3 +16,4 @@ model/
 nextjs/
 dowload_model.py
 main.py
+.env
